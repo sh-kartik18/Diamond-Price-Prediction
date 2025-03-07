@@ -1,4 +1,3 @@
-# Diamond-Price-Prediction
 # Diamond Price Prediction
 
 ## Project Overview
@@ -82,6 +81,7 @@ The models were evaluated using:
 - Incorporate additional features like fluorescence and certification.
 - Optimize hyperparameters for further improvement.
 - Deploy the model as a web application for real-time price predictions.
+
 
 ## Contributors
 - **Kartik Sharma**
