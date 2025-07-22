@@ -1,5 +1,17 @@
 # Diamond Price Prediction
 
+![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=matplotlib)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Regression-orange?logo=scikit-learn)
+![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-lightgrey)
+![Ridge Regression](https://img.shields.io/badge/Model-Ridge%20Regression-lightgrey)
+![Lasso Regression](https://img.shields.io/badge/Model-Lasso%20Regression-lightgrey)
+![Decision Tree](https://img.shields.io/badge/Model-Decision%20Tree%20Regression-green)
+![Random Forest](https://img.shields.io/badge/Model-Random%20Forest%20Regression-darkgreen)
+![SVR](https://img.shields.io/badge/Model-Support%20Vector%20Regression-blueviolet)
+![ANN](https://img.shields.io/badge/Model-Artificial%20Neural%20Network-red)
+
 ## Project Overview
 This project aims to predict diamond prices using machine learning techniques. By analyzing various factors influencing the price, such as carat, cut, color, and clarity, the project delivers a robust predictive model. The dataset consists of 50,000 diamond records with 10 features. The final models are evaluated using metrics like R², Mean Absolute Error (MAE), and Mean Squared Error (MSE) to ensure accuracy and reliability.
 
