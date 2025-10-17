@@ -77,8 +77,8 @@ def load_css():
 
 load_css()
 
-model_path = os.path.join(os.path.dirname(__file__), '..', 'app', 'diamond_price_model.pkl')
-data_path = os.path.join(os.path.dirname(__file__), '..', 'diamonds.csv')
+model_path = 'diamond_price_model.pkl'
+data_path = 'diamonds.csv'
 
 try:
     pipeline = pickle.load(open(model_path, "rb"))
@@ -127,4 +127,5 @@ st.markdown("""
         <p>This app uses a machine learning model to predict diamond prices based on their characteristics.</p>
         <p><strong>Data Source:</strong> <a href="https://www.kaggle.com/datasets/shivam2503/diamonds" target="_blank">Kaggle</a> | <strong>Made by:</strong> Kartik Sharma</p>
     </div>
+
 """, unsafe_allow_html=True)
