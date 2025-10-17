@@ -83,7 +83,7 @@ An interactive web application was built using **Streamlit** to provide a user-f
 
 **Live App Link**: **[diamond-price-prediction-ks.streamlit.app](https://diamond-price-prediction-ks.streamlit.app)** 
 
-![App Screenshot](link_to_your_screenshot.png)  
+![App Screenshot](streamlit_app.png)  
 
 ---
 
